@@ -1,0 +1,287 @@
+/* For Laptop */
+
+@media screen and (max-width:1024px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+    }
+    .paragraph{
+        top: -130px;
+        width: 700px;
+        height: 70px;
+        font-size: 70px;
+    }
+    .content2{
+        width: 1400px;
+        height: 400px;
+        top: 830px;
+    }
+    .btnn{
+        top: 990px;
+    }
+    .content3{
+        top: 1350px;
+        width: 1400px;
+        height: 400px;
+    }
+    .imgc{
+        width: 513px;
+        height: 400px;
+    }
+    .imgi{
+        width: 513px;
+        height: 400px;
+    }
+    .imgii{
+        width: 513px;
+        height: 400px;
+    }
+    .rec18{
+        width: 513px;
+        height: 400px;
+    }
+    .rec19{
+        width: 513px;
+        height: 400px;
+    }
+    .rec20{
+        width: 513px;
+        height: 400px;
+    }
+
+    .reh2{
+        left: 150px;
+    }
+    .r19p{
+        left: 100px;
+        width: 350px;
+        height: 67px;
+    }
+    .btnr19{
+        left:150px ;
+    }
+    .reh3{
+        left:150px ;
+    }
+    .r20p{
+        left: 120px;
+        width: 350px;
+        height: 67px;
+    }
+    .btnr20{
+        left: 180px;
+    }
+    
+    .p23{
+        font-size: 20px;
+        width: 700px;
+    }
+    .d23{
+        font-size: 15px;
+        width: 500px;
+    }
+    .p24{
+        font-size: 20px;
+        width: 700px;
+    }
+    .d24{
+        font-size: 15px;
+        width: 500px;
+    }
+    .p25{
+        font-size: 20px;
+        width: 700px;
+    }
+    .d25{
+        font-size: 15px;
+        width: 500px;
+    }
+    .p26{
+        font-size: 20px;
+        width: 700px;
+    }
+    .d26{
+        font-size: 15px;
+        width: 500px;
+    }
+
+    .rec27{
+        top: 2600px;
+    }
+    .heads{
+        top: 2630px;
+        width: 480px;
+    }
+    input{
+        top: 2720px;
+
+    }
+    .btns{
+        top: 2720px;
+    }
+
+    .rec30{
+        top: 2860px;
+    }
+    .copy{
+        top: 470px;
+    }
+}
+
+
+
+
+/* For Mobile */
+@media screen and (max-width:576px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+    }
+    .container{
+        margin-left: 0;
+    }
+    .header{
+        width: 1630px;
+    }
+    .imgs{
+        left: -250px;
+    }
+    .imagear {
+        width: 1630px;
+    }
+    .paragraph{
+        top: -65px;
+        left: -95px;
+    }
+    .btnn{
+        top: 980px;
+        left: 1150px;
+    }
+    .content2{
+        top: 820px;
+        left: 220px;
+        width: 1200px;
+        height: 300px;
+    }
+
+    .content3{
+        top: 1200px;
+        left: 220px;
+        width: 1200px;
+    }
+    .imgc{
+        width: 400px;
+    }
+    .imgi{
+        width: 400px;
+        left: 400px;
+    }
+    .imgii{
+        width: 400px;
+        left: 800px;
+    }
+    .rec18{
+        width: 400px;
+    }
+    .rec19{
+        width: 400px;
+        left: 400px;
+    }
+    .reh2{
+        left: 80px;
+    }
+    .r19p{
+        left: 70px;
+        width: 350px;
+        height: 63px;
+    }
+    .btnr19{
+        left: 100px;
+    }
+    .rec20{
+        width: 400px;
+        left: 800px;
+    }
+    .reh3{
+        left: 70px;
+    }
+    .r20p{
+        left: 50px;
+    }
+    .btnr20{
+        left: 100px;
+    }
+
+
+
+    .rec27{
+        top: 2450px;
+        width: 1630px;
+    }
+    .sub{
+        left: 210px;
+    }
+    .heads{
+        top: 2500px;
+        left: 1110px;
+    }
+    input{
+        top: 2570px;
+        left: 1010px;
+    }
+    .btns{
+        top: 2570px;
+        left: 1380px;
+    }
+
+    
+    .rec30{
+        width: 1630px;
+        top: 2710px;
+    }
+    .sidbi{
+        left: 230px;
+    }
+    .sidbip{
+        left: 230px;
+    }
+    .insta{
+        left: 230px;
+    }
+    .youtube{
+        left: 300px;
+    }
+    .facebook{
+        left: 370px;
+    }
+    .visit{
+        left: 230px;
+    }
+    .count{
+        left: 400px;
+    }
+    .feh{
+        left: 1350px;
+    }
+    .cont{
+        left: 1350px;
+    }
+    .add{
+        left: 1350px;
+    }
+    .num{
+        left: 1350px;
+    }
+    .copy{
+        width:1630px ;
+    }
+
+}
+
+
+/* For Tablet */
+@media screen and (max-width:768px) {
+    
+}
